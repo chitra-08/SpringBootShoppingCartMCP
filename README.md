@@ -53,7 +53,9 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/chitra-08/SpringBootShoppingCartMCP.git
 
-## How to use it as MCP Server in the MCP Host like Claude Desktop
+---
+
+## 🚀 How to use it as MCP Server in the MCP Host like Claude Desktop
 
 1. Open the claude desktop and go to settings. Open Developer settings and go to Local MCP Servers -> Choose Edit Config
 2. Provide the MCP server details like below:
