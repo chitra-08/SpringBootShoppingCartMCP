@@ -80,6 +80,7 @@ git clone https://github.com/chitra-08/SpringBootShoppingCartMCP.git
 <img width="2878" height="1704" alt="image" src="https://github.com/user-attachments/assets/645be590-17ed-4e42-8e14-0c5e9eea3aaf" />
 <img width="2879" height="1701" alt="image" src="https://github.com/user-attachments/assets/fe58f77f-419e-4722-a9ba-2dd1778f3c3a" />
 <img width="2879" height="1702" alt="image" src="https://github.com/user-attachments/assets/7cd40433-4703-46fd-bdbd-eb9fc380e040" />
+<img width="1381" height="338" alt="image" src="https://github.com/user-attachments/assets/761763bd-af52-48e7-806e-4718680926fb" />
 
 
 
