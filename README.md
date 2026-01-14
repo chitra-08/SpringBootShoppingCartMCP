@@ -52,3 +52,27 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/chitra-08/SpringBootShoppingCartMCP.git
+
+## How to use it as MCP Server in the MCP Host like Claude Desktop
+
+1. Open the claude desktop and go to settings. Open Developer settings and go to Local MCP Servers -> Choose Edit Config
+2. Provide the MCP server details like below:
+{
+  "mcpServers": {
+    "shopping-cart-server": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "E:\SpringBootMCPServer\ShoppingCartMCPServerNew.jar"
+      ]
+    }
+  }
+}
+3. After saving teh config file, Quit the claude desktop and open it again. Your MCP server is ready-to-use.
+
+<img width="2878" height="1704" alt="image" src="https://github.com/user-attachments/assets/645be590-17ed-4e42-8e14-0c5e9eea3aaf" />
+<img width="2879" height="1701" alt="image" src="https://github.com/user-attachments/assets/fe58f77f-419e-4722-a9ba-2dd1778f3c3a" />
+<img width="2879" height="1702" alt="image" src="https://github.com/user-attachments/assets/7cd40433-4703-46fd-bdbd-eb9fc380e040" />
+
+
+
